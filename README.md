@@ -6,7 +6,7 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 <p align="center">
   To other mod devs: for usage of our code, please read and respect the <a href="#license">license</a></p>
 
-[![Discord](./Images/TOR_server.png)](https://discord.gg/77RkMJHWsM)
+[![Discord](./Images/TOR_server.png)](https://discord.gg/kxAXzyjQ)
 ![eisbison infographic](./Images/TOR_Roles.png)
 
 
@@ -2267,7 +2267,6 @@ TheOtherRolesAU/TheOtherRoles is licensed under the
 Permissions of this strong copyleft license are conditioned on making available **complete source code of licensed works and modifications**, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
 # Bugs, suggestions and requests
-If you found any bugs, have an idea for a new role or any other request, join our [Discord server](https://discord.gg/77RkMJHWsM).
+If you found any bugs, have an idea for a new role or any other request, join our [Discord server](https://discord.gg/kxAXzyjQ).
 
-# Copyedit
-Thanks for fixing our typos [jacktose](https://github.com/jacktose) ✌️
+
